@@ -1,4 +1,4 @@
-﻿Solution;PubType;DetailPageURL;Course;Title;Note;Release Date;Scope;State;RetiredDate
+﻿Solution;PubType;DetailPageURL;Course;Title;Note;ReleaseDate;Scope;State;RetiredDate
 Data & AI;Update;https://learn.microsoft.com/training/courses/ai-102t00;AI-102T00;Designing and Implementing a Microsoft Azure AI Solution;;21-oct-22;Minor;Released;
 Data & AI;Update;https://learn.microsoft.com/training/courses/ai-900t00;AI-900T00;Microsoft Azure AI Fundamentals;;09-dic-22;Minor;Under Development;
 Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-010t00;AZ-010T00;Azure Administration for AWS SysOps;;18-jun-21;Minor;Closed;30-jun-22
