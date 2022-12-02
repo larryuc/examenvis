@@ -1,80 +1,80 @@
-﻿Solution;PubType;DetailPageURL;Course;Title;Note;ReleaseDate;Scope;State;RetiredDate
-Data & AI;Update;https://learn.microsoft.com/training/courses/ai-102t00;AI-102T00;Designing and Implementing a Microsoft Azure AI Solution;;21-oct-22;Minor;Released;
-Data & AI;Update;https://learn.microsoft.com/training/courses/ai-900t00;AI-900T00;Microsoft Azure AI Fundamentals;;09-dic-22;Minor;Under Development;
-Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-010t00;AZ-010T00;Azure Administration for AWS SysOps;;18-jun-21;Minor;Closed;30-jun-22
-Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-020t00;AZ-020T00;Microsoft Azure solutions for AWS developers;;18-jun-21;Minor;Closed;30-jun-22
-Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-030t00;AZ-030T00;Microsoft Azure technologies for AWS architects;;11-jun-21;Minor;Closed;30-jun-22
-Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-040t00;AZ-040T00;Automating Administration with PowerShell;;16-dic-22;Minor;Under Development;
-Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-104t00;AZ-104T00;Microsoft Azure Administrator;;18-nov-22;Minor;Released;
-Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-120t00;AZ-120T00;Planning and Deploying SAP on Azure;;07-oct-22;Minor;Released;
-Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-140t00;AZ-140T00;Configuring and Operating Microsoft Azure Virtual Desktop;;09-dic-22;Major;Under Development;
-Azure Digital & App Innovation;Update;https://learn.microsoft.com/training/courses/az-204t00;AZ-204T00;Developing Solutions for Microsoft Azure;;18-nov-22;Major;Released;
-Azure Digital & App Innovation;Update;https://learn.microsoft.com/training/courses/az-220t00;AZ-220T00;Microsoft Azure IoT Developer;;16-dic-22;Major;Under Development;
-Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-303t00;AZ-303T00;Microsoft Azure Architect Technologies;;24-sept-21;Minor;Closed;31-mar-22
-Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-304t00;AZ-304T00;Microsoft Azure Architect Design;;14-may-21;Minor;Closed;31-mar-22
-Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-305t00;AZ-305T00;Designing Microsoft Azure Infrastructure Solutions;;18-nov-22;Minor;Released;
-Azure Digital & App Innovation;Update;https://learn.microsoft.com/training/courses/az-400t00;AZ-400T00;Designing and Implementing Microsoft DevOps solutions;;09-dic-22;Major;Under Development;
-Security;Update;https://learn.microsoft.com/training/courses/az-500t00;AZ-500T00;Microsoft Azure Security Technologies;;18-nov-22;Minor;Released;
-Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-600t00;AZ-600T00;Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub;;09-dic-22;Major;Under Development;
-Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-700t00;AZ-700T00;Designing and Implementing Microsoft Azure Networking Solutions;;28-oct-22;Minor;Released;
-Azure Infrastructure;New;https://learn.microsoft.com/training/courses/az-720t00;AZ-720T00;Azure Support Engineer Troubleshooting Azure Connectivity;;18-nov-22;;Released;
-Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-800t00;AZ-800T00;Administering Windows Server Hybrid Core Infrastructure;;16-dic-22;;Under Development;
-Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-801t00;AZ-801T00;Configuring Windows Server Hybrid Advanced Services;;16-dic-22;;Under Development;
-Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-900t00;AZ-900T00;Microsoft Azure Fundamentals;;09-dic-22;Major;Under Development;
-Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-900t01;AZ-900T01;Microsoft Azure Fundamentals (1 Day);;25-feb-22;Minor;Closed;30-jun-22
-Data & AI;Update;https://learn.microsoft.com/training/courses/da-100t00;DA-100T00;Analyzing Data with Power BI;;19-nov-21;Minor;Closed;31-mar-22
-Data & AI;Update;https://learn.microsoft.com/training/courses/dp-050t00;DP-050T00;Migrate SQL workloads to Azure;;19-nov-21;Major;Released;31-ene-23
-Data & AI;Update;https://learn.microsoft.com/training/courses/dp-060t00;DP-060T00;Migrate NoSQL workloads to Azure Cosmos DB;;11-nov-22;Major;Released;31-ene-23
-Data & AI;Update;https://learn.microsoft.com/training/courses/dp-070t00;DP-070T00;Migrate Open Source Data Workloads to Azure;;05-feb-21;Major;Released;31-ene-23
-Data & AI;Update;https://learn.microsoft.com/training/courses/dp-080t00;DP-080T00;Querying Data with Microsoft Transact-SQL;;21-oct-22;Minor;Released;
-Data & AI;Update;https://learn.microsoft.com/training/courses/dp-090t00;DP-090T00;Implementing a Machine Learning Solution with Microsoft Azure Databricks;;16-dic-22;Major;Under Development;
-Data & AI;Update;https://learn.microsoft.com/training/courses/dp-100t01;DP-100T01;Designing and Implementing a Data Science Solution on Azure;;16-dic-22;Major;Under Development;
-Data & AI;Update;https://learn.microsoft.com/training/courses/dp-200t01;DP-200T01;Implementing an Azure Data Solution;;25-jun-21;Minor;Closed;31-ago-21
-Data & AI;Update;https://learn.microsoft.com/training/courses/dp-201t01;DP-201T01;Designing an Azure Data Solution;;02-jul-21;Minor;Closed;31-ago-21
-Data & AI;Update;https://learn.microsoft.com/training/courses/dp-203t00;DP-203T00;Data Engineering on Microsoft Azure;for 1/6 release labs will move to using ALH Azure subscription and will no longer require an Azure Pass;11-nov-22;Major;Released;
-Data & AI;Update;https://learn.microsoft.com/training/courses/dp-300t00;DP-300T00;Administering Microsoft Azure SQL Solutions;;16-dic-22;Major;Under Development;
-Data & AI;Update;https://learn.microsoft.com/training/courses/dp-420t00;DP-420T00;Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB;;21-oct-22;Minor;Released;
-Data & AI;Update;https://learn.microsoft.com/training/courses/dp-500t00;DP-500T00;Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI;;14-oct-22;Minor;Released;
-Data & AI;Update;https://learn.microsoft.com/training/courses/dp-900t00;DP-900T00;Microsoft Azure Data Fundamentals;;11-nov-22;Minor;Released;
-Others;New;https://learn.microsoft.com/training/courses/ic-001t00;IC-001T00;Microsoft Cloud for Healthcare;Restricted access to this course;07-oct-22;;Released;
-Business Applications;Update;https://learn.microsoft.com/training/courses/mb-210t01;MB-210T01;Microsoft Dynamics 365 Sales;Moving to 2 days with Applied Workshop;23-nov-22;Major;Released;
-Business Applications;Update;https://learn.microsoft.com/training/courses/mb-220t00;MB-220T00;Microsoft Dynamics 365 Marketing;;18-nov-22;Major;Released;
-Business Applications;Update;https://learn.microsoft.com/training/courses/mb-230t01;MB-230T01;Microsoft Dynamics 365 Customer Service;Moving to 4 days with Applied Workshop;02-dic-22;Major;Under Development;
-Business Applications;Update;https://learn.microsoft.com/training/courses/mb-240t00;MB-240T00;Microsoft Dynamics 365 Field Service;Moving to 4 days with Applied Workshop;18-nov-22;Major;Released;
-Business Applications;Update;https://learn.microsoft.com/training/courses/mb-260t00;MB-260T00;Microsoft Customer Data Platform Specialty;;09-dic-22;Major;Under Development;
-Business Applications;Update;https://learn.microsoft.com/training/courses/mb-300t00;MB-300T00;Microsoft Dynamics 365: Core Finance and Operations;;02-dic-22;Major;In Production;
-Business Applications;Update;https://learn.microsoft.com/training/courses/mb-310t00;MB-310T00;Microsoft Dynamics 365 Finance;;18-nov-22;Major;Released;
-Business Applications;Update;https://learn.microsoft.com/training/courses/mb-320t00;MB-320T00;Microsoft Dynamics 365 Supply Chain Management, Manufacturing;;16-dic-22;Major;Under Development;
-Business Applications;Update;https://learn.microsoft.com/training/courses/mb-330t00;MB-330T00;Microsoft Dynamics 365 Supply Chain Management;;02-dic-22;Major;Under Development;
-Business Applications;New;https://learn.microsoft.com/training/courses/mb-340t00;MB-340T00;Microsoft Dynamics 365 Commerce Functional Consultant;;30-sept-21;;Closed;31-may-22
-Business Applications;Update;https://learn.microsoft.com/training/courses/mb-500t00;MB-500T00;Microsoft Dynamics 365: Finance and Operations Apps Developer;;11-nov-22;Major;Released;
-Business Applications;Update;https://learn.microsoft.com/training/courses/mb-600t00;MB-600T00;Microsoft Dynamics 365 + Power Platform Solution Architect;;22-ene-21;Minor;Closed;30-jun-21
-Business Applications;Update;https://learn.microsoft.com/training/courses/mb-700t00;MB-700T00;Microsoft Dynamics 365: Finance and Operations Apps Solution Architect;;09-dic-22;Major;Under Development;
-Business Applications;Update;https://learn.microsoft.com/training/courses/mb-800t00;MB-800T00;Microsoft Dynamics 365 Business Central Functional Consultant;;02-dic-22;Major;In Production;
-Business Applications;Update;https://learn.microsoft.com/training/courses/mb-901t00;MB-901T00;Microsoft Dynamics 365 Fundamentals;;29-ene-21;Minor;Closed;30-jun-21
-Business Applications;Update;https://learn.microsoft.com/training/courses/mb-910t00;MB-910T00;Microsoft Dynamics 365 Fundamentals (CRM);;24-feb-23;Major;Under Development;
-Business Applications;Update;https://learn.microsoft.com/training/courses/mb-920t00;MB-920T00;Microsoft Dynamics 365 Fundamentals (ERP);;14-oct-22;Minor;Released;
-Modern Work;Update;https://learn.microsoft.com/training/courses/md-100t00;MD-100T00;Windows Client;;16-dic-22;Major;Under Development;
-Modern Work;Update;https://learn.microsoft.com/training/courses/md-101t00;MD-101T00;Managing Modern Desktops;;16-dic-22;Major;Under Development;
-Modern Work;Update;https://learn.microsoft.com/training/courses/ms-100t00;MS-100T00;Microsoft 365 Identity and Services;;18-nov-22;Minor;Released;
-Modern Work;Update;https://learn.microsoft.com/training/courses/ms-101t00;MS-101T00;Microsoft 365 Mobility and Security;;07-oct-22;Major;Released;
-Modern Work;Update;https://learn.microsoft.com/training/courses/ms-203t00;MS-203T00;Microsoft 365 Messaging;;21-oct-22;Minor;Released;
-Modern Work;New;https://learn.microsoft.com/training/courses/ms-220t00;MS-220T00;Troubleshoot Microsoft Exchange Online;;07-oct-22;;Released;
-Security;Update;https://learn.microsoft.com/training/courses/ms-500t00;MS-500T00;Microsoft 365 Security Administration;;14-oct-22;Minor;Released;
-Modern Work;Update;https://learn.microsoft.com/training/courses/ms-600t00;MS-600T00;Building Applications and Solutions with Microsoft 365 Core Services;;11-nov-22;Minor;Released;
-Modern Work;Update;https://learn.microsoft.com/training/courses/ms-700t00;MS-700T00;Managing Microsoft Teams;;16-dic-22;Minor;Under Development;
-Modern Work;Update;https://learn.microsoft.com/training/courses/ms-720t00;MS-720T00;Microsoft Teams Voice Engineer;;09-dic-22;Major;Under Development;
-Modern Work;Update;https://learn.microsoft.com/training/courses/ms-900t01;MS-900T01;Microsoft 365 Fundamentals;;18-nov-22;Major;Released;
-Business Applications;Update;https://learn.microsoft.com/training/courses/pl-100t00;PL-100T00;Microsoft Power Platform App Maker;Moving to 4 days with Applied Workshop;04-nov-22;Minor;Released;
-Business Applications;Update;https://learn.microsoft.com/training/courses/pl-200t00;PL-200T00;Microsoft Power Platform Functional Consultant;;07-oct-22;Major;Released;
-Data & AI;Update;https://learn.microsoft.com/training/courses/pl-300t00;PL-300T00;Microsoft Power BI Data Analyst;;11-nov-22;Minor;Released;
-Business Applications;Update;https://learn.microsoft.com/training/courses/pl-400t00;PL-400T00;Microsoft Power Platform Developer;;16-dic-22;Major;Under Development;
-Business Applications;Update;https://learn.microsoft.com/training/courses/pl-500t00;PL-500T00;Microsoft Power Automate RPA Developer;;09-dic-22;Major;Under Development;
-Business Applications;Update;https://learn.microsoft.com/training/courses/pl-600t00;PL-600T00;Microsoft Power Platform Solution Architect;;16-dic-22;Major;Under Development;
-Business Applications;Update;https://learn.microsoft.com/training/courses/pl-900t00;PL-900T00;Microsoft Power Platform Fundamentals;;07-oct-22;Minor;Released;
-Security;Update;https://learn.microsoft.com/training/courses/sc-100t00;SC-100T00;Microsoft Cybersecurity Architect;;29-nov-22;Minor;Released;
-Security;Update;https://learn.microsoft.com/training/courses/sc-200t00;SC-200T00;Microsoft Security Operations Analyst;;11-nov-22;Minor;Released;
-Security;Update;https://learn.microsoft.com/training/courses/sc-300t00;SC-300T00;Microsoft Identity and Access Administrator;;18-nov-22;Minor;Released;
-Security;Update;https://learn.microsoft.com/training/courses/sc-400t00;SC-400T00;Microsoft Information Protection Administrator;;04-nov-22;Minor;Released;
-Security;Update;https://learn.microsoft.com/training/courses/sc-900t00;SC-900T00;Microsoft Security, Compliance, and Identity Fundamentals;Labs will move to using ALH Azure subscription and will no longer require an Azure Pass;16-dic-22;Major;Under Development;
-Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/ws-013t00;WS-013T00;Azure Stack HCI;;05-feb-21;Minor;Released;31-oct-22
+﻿SolutionArea;PubType;DetailPageURL;Course;Title;Duration;Note;ReleaseDate;State;RetiredDate
+Data & AI;Update;https://learn.microsoft.com/training/courses/ai-102t00;AI-102T00;Designing and Implementing a Microsoft Azure AI Solution;4;;21-oct-22;Released;
+Data & AI;Update;https://learn.microsoft.com/training/courses/ai-900t00;AI-900T00;Microsoft Azure AI Fundamentals;1;;09-dic-22;Under Development;
+Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-010t00;AZ-010T00;Azure Administration for AWS SysOps;2;;18-jun-21;Closed;30-jun-22
+Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-020t00;AZ-020T00;Microsoft Azure solutions for AWS developers;3;;18-jun-21;Closed;30-jun-22
+Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-030t00;AZ-030T00;Microsoft Azure technologies for AWS architects;4;;11-jun-21;Closed;30-jun-22
+Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-040t00;AZ-040T00;Automating Administration with PowerShell;5;;16-dic-22;Under Development;
+Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-104t00;AZ-104T00;Microsoft Azure Administrator;4;;18-nov-22;Released;
+Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-120t00;AZ-120T00;Planning and Deploying SAP on Azure;4;;07-oct-22;Released;
+Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-140t00;AZ-140T00;Configuring and Operating Microsoft Azure Virtual Desktop;4;;09-dic-22;Under Development;
+Azure Digital & App Innovation;Update;https://learn.microsoft.com/training/courses/az-204t00;AZ-204T00;Developing Solutions for Microsoft Azure;5;;18-nov-22;Released;
+Azure Digital & App Innovation;Update;https://learn.microsoft.com/training/courses/az-220t00;AZ-220T00;Microsoft Azure IoT Developer;4;;16-dic-22;Under Development;
+Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-303t00;AZ-303T00;Microsoft Azure Architect Technologies;5;;24-sept-21;Closed;31-mar-22
+Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-304t00;AZ-304T00;Microsoft Azure Architect Design;4;;14-may-21;Closed;31-mar-22
+Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-305t00;AZ-305T00;Designing Microsoft Azure Infrastructure Solutions;4;;18-nov-22;Released;
+Azure Digital & App Innovation;Update;https://learn.microsoft.com/training/courses/az-400t00;AZ-400T00;Designing and Implementing Microsoft DevOps solutions;4;;09-dic-22;Under Development;
+Security;Update;https://learn.microsoft.com/training/courses/az-500t00;AZ-500T00;Microsoft Azure Security Technologies;4;;18-nov-22;Released;
+Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-600t00;AZ-600T00;Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub;4;;09-dic-22;Under Development;
+Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-700t00;AZ-700T00;Designing and Implementing Microsoft Azure Networking Solutions;3;;28-oct-22;Released;
+Azure Infrastructure;New;https://learn.microsoft.com/training/courses/az-720t00;AZ-720T00;Azure Support Engineer Troubleshooting Azure Connectivity;3;;18-nov-22;Released;
+Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-800t00;AZ-800T00;Administering Windows Server Hybrid Core Infrastructure;4;;16-dic-22;Under Development;
+Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-801t00;AZ-801T00;Configuring Windows Server Hybrid Advanced Services;4;;16-dic-22;Under Development;
+Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-900t00;AZ-900T00;Microsoft Azure Fundamentals;1;;09-dic-22;Under Development;
+Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/az-900t01;AZ-900T01;Microsoft Azure Fundamentals (1 Day);1;;25-feb-22;Closed;30-jun-22
+Data & AI;Update;https://learn.microsoft.com/training/courses/da-100t00;DA-100T00;Analyzing Data with Power BI;4;;19-nov-21;Closed;31-mar-22
+Data & AI;Update;https://learn.microsoft.com/training/courses/dp-050t00;DP-050T00;Migrate SQL workloads to Azure;2;;19-nov-21;Released;31-ene-23
+Data & AI;Update;https://learn.microsoft.com/training/courses/dp-060t00;DP-060T00;Migrate NoSQL workloads to Azure Cosmos DB;1;;11-nov-22;Released;31-ene-23
+Data & AI;Update;https://learn.microsoft.com/training/courses/dp-070t00;DP-070T00;Migrate Open Source Data Workloads to Azure;1;;05-feb-21;Released;31-ene-23
+Data & AI;Update;https://learn.microsoft.com/training/courses/dp-080t00;DP-080T00;Querying Data with Microsoft Transact-SQL;2;;21-oct-22;Released;
+Data & AI;Update;https://learn.microsoft.com/training/courses/dp-090t00;DP-090T00;Implementing a Machine Learning Solution with Microsoft Azure Databricks;1;;16-dic-22;Under Development;
+Data & AI;Update;https://learn.microsoft.com/training/courses/dp-100t01;DP-100T01;Designing and Implementing a Data Science Solution on Azure;3;;16-dic-22;Under Development;
+Data & AI;Update;https://learn.microsoft.com/training/courses/dp-200t01;DP-200T01;Implementing an Azure Data Solution;3;;25-jun-21;Closed;31-ago-21
+Data & AI;Update;https://learn.microsoft.com/training/courses/dp-201t01;DP-201T01;Designing an Azure Data Solution;2;;02-jul-21;Closed;31-ago-21
+Data & AI;Update;https://learn.microsoft.com/training/courses/dp-203t00;DP-203T00;Data Engineering on Microsoft Azure;4;for 1/6 release labs will move to using ALH Azure subscription and will no longer require an Azure Pass;11-nov-22;Released;
+Data & AI;Update;https://learn.microsoft.com/training/courses/dp-300t00;DP-300T00;Administering Microsoft Azure SQL Solutions;4;;16-dic-22;Under Development;
+Data & AI;Update;https://learn.microsoft.com/training/courses/dp-420t00;DP-420T00;Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB;4;;21-oct-22;Released;
+Data & AI;Update;https://learn.microsoft.com/training/courses/dp-500t00;DP-500T00;Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI;4;;14-oct-22;Released;
+Data & AI;Update;https://learn.microsoft.com/training/courses/dp-900t00;DP-900T00;Microsoft Azure Data Fundamentals;1;;11-nov-22;Released;
+Others;New;https://learn.microsoft.com/training/courses/ic-001t00;IC-001T00;Microsoft Cloud for Healthcare;4;Restricted access to this course;07-oct-22;Released;
+Business Applications;Update;https://learn.microsoft.com/training/courses/mb-210t01;MB-210T01;Microsoft Dynamics 365 Sales;2;Moving to 2 days with Applied Workshop;23-nov-22;Released;
+Business Applications;Update;https://learn.microsoft.com/training/courses/mb-220t00;MB-220T00;Microsoft Dynamics 365 Marketing;4;;18-nov-22;Released;
+Business Applications;Update;https://learn.microsoft.com/training/courses/mb-230t01;MB-230T01;Microsoft Dynamics 365 Customer Service;4;Moving to 4 days with Applied Workshop;02-dic-22;Under Development;
+Business Applications;Update;https://learn.microsoft.com/training/courses/mb-240t00;MB-240T00;Microsoft Dynamics 365 Field Service;3;Moving to 4 days with Applied Workshop;18-nov-22;Released;
+Business Applications;Update;https://learn.microsoft.com/training/courses/mb-260t00;MB-260T00;Microsoft Customer Data Platform Specialty;4;;09-dic-22;Under Development;
+Business Applications;Update;https://learn.microsoft.com/training/courses/mb-300t00;MB-300T00;Microsoft Dynamics 365: Core Finance and Operations;2;;02-dic-22;In Production;
+Business Applications;Update;https://learn.microsoft.com/training/courses/mb-310t00;MB-310T00;Microsoft Dynamics 365 Finance;4;;18-nov-22;Released;
+Business Applications;Update;https://learn.microsoft.com/training/courses/mb-320t00;MB-320T00;Microsoft Dynamics 365 Supply Chain Management, Manufacturing;4;;16-dic-22;Under Development;
+Business Applications;Update;https://learn.microsoft.com/training/courses/mb-330t00;MB-330T00;Microsoft Dynamics 365 Supply Chain Management;5;;02-dic-22;Under Development;
+Business Applications;New;https://learn.microsoft.com/training/courses/mb-340t00;MB-340T00;Microsoft Dynamics 365 Commerce Functional Consultant;4;;30-sept-21;Closed;31-may-22
+Business Applications;Update;https://learn.microsoft.com/training/courses/mb-500t00;MB-500T00;Microsoft Dynamics 365: Finance and Operations Apps Developer;5;;11-nov-22;Released;
+Business Applications;Update;https://learn.microsoft.com/training/courses/mb-600t00;MB-600T00;Microsoft Dynamics 365 + Power Platform Solution Architect;3;;22-ene-21;Closed;30-jun-21
+Business Applications;Update;https://learn.microsoft.com/training/courses/mb-700t00;MB-700T00;Microsoft Dynamics 365: Finance and Operations Apps Solution Architect;4;;09-dic-22;Under Development;
+Business Applications;Update;https://learn.microsoft.com/training/courses/mb-800t00;MB-800T00;Microsoft Dynamics 365 Business Central Functional Consultant;4;;02-dic-22;In Production;
+Business Applications;Update;https://learn.microsoft.com/training/courses/mb-901t00;MB-901T00;Microsoft Dynamics 365 Fundamentals;2;;29-ene-21;Closed;30-jun-21
+Business Applications;Update;https://learn.microsoft.com/training/courses/mb-910t00;MB-910T00;Microsoft Dynamics 365 Fundamentals (CRM);1;;24-feb-23;Under Development;
+Business Applications;Update;https://learn.microsoft.com/training/courses/mb-920t00;MB-920T00;Microsoft Dynamics 365 Fundamentals (ERP);1;;14-oct-22;Released;
+Modern Work;Update;https://learn.microsoft.com/training/courses/md-100t00;MD-100T00;Windows Client;5;;16-dic-22;Under Development;
+Modern Work;Update;https://learn.microsoft.com/training/courses/md-101t00;MD-101T00;Managing Modern Desktops;5;;16-dic-22;Under Development;
+Modern Work;Update;https://learn.microsoft.com/training/courses/ms-100t00;MS-100T00;Microsoft 365 Identity and Services;5;;18-nov-22;Released;
+Modern Work;Update;https://learn.microsoft.com/training/courses/ms-101t00;MS-101T00;Microsoft 365 Mobility and Security;5;;07-oct-22;Released;
+Modern Work;Update;https://learn.microsoft.com/training/courses/ms-203t00;MS-203T00;Microsoft 365 Messaging;5;;21-oct-22;Released;
+Modern Work;New;https://learn.microsoft.com/training/courses/ms-220t00;MS-220T00;Troubleshoot Microsoft Exchange Online;3;;07-oct-22;Released;
+Security;Update;https://learn.microsoft.com/training/courses/ms-500t00;MS-500T00;Microsoft 365 Security Administration;4;;14-oct-22;Released;
+Modern Work;Update;https://learn.microsoft.com/training/courses/ms-600t00;MS-600T00;Building Applications and Solutions with Microsoft 365 Core Services;5;;11-nov-22;Released;
+Modern Work;Update;https://learn.microsoft.com/training/courses/ms-700t00;MS-700T00;Managing Microsoft Teams;4;;16-dic-22;Under Development;
+Modern Work;Update;https://learn.microsoft.com/training/courses/ms-720t00;MS-720T00;Microsoft Teams Voice Engineer;3;;09-dic-22;Under Development;
+Modern Work;Update;https://learn.microsoft.com/training/courses/ms-900t01;MS-900T01;Microsoft 365 Fundamentals;1;;18-nov-22;Released;
+Business Applications;Update;https://learn.microsoft.com/training/courses/pl-100t00;PL-100T00;Microsoft Power Platform App Maker;3;Moving to 4 days with Applied Workshop;04-nov-22;Released;
+Business Applications;Update;https://learn.microsoft.com/training/courses/pl-200t00;PL-200T00;Microsoft Power Platform Functional Consultant;4;;07-oct-22;Released;
+Data & AI;Update;https://learn.microsoft.com/training/courses/pl-300t00;PL-300T00;Microsoft Power BI Data Analyst;3;;11-nov-22;Released;
+Business Applications;Update;https://learn.microsoft.com/training/courses/pl-400t00;PL-400T00;Microsoft Power Platform Developer;5;;16-dic-22;Under Development;
+Business Applications;Update;https://learn.microsoft.com/training/courses/pl-500t00;PL-500T00;Microsoft Power Automate RPA Developer;4;;09-dic-22;Under Development;
+Business Applications;Update;https://learn.microsoft.com/training/courses/pl-600t00;PL-600T00;Microsoft Power Platform Solution Architect;3;;16-dic-22;Under Development;
+Business Applications;Update;https://learn.microsoft.com/training/courses/pl-900t00;PL-900T00;Microsoft Power Platform Fundamentals;1;;07-oct-22;Released;
+Security;Update;https://learn.microsoft.com/training/courses/sc-100t00;SC-100T00;Microsoft Cybersecurity Architect;4;;29-nov-22;Released;
+Security;Update;https://learn.microsoft.com/training/courses/sc-200t00;SC-200T00;Microsoft Security Operations Analyst;4;;11-nov-22;Released;
+Security;Update;https://learn.microsoft.com/training/courses/sc-300t00;SC-300T00;Microsoft Identity and Access Administrator;4;;18-nov-22;Released;
+Security;Update;https://learn.microsoft.com/training/courses/sc-400t00;SC-400T00;Microsoft Information Protection Administrator;3;;04-nov-22;Released;
+Security;Update;https://learn.microsoft.com/training/courses/sc-900t00;SC-900T00;Microsoft Security, Compliance, and Identity Fundamentals;1;Labs will move to using ALH Azure subscription and will no longer require an Azure Pass;16-dic-22;Under Development;
+Azure Infrastructure;Update;https://learn.microsoft.com/training/courses/ws-013t00;WS-013T00;Azure Stack HCI;3;;05-feb-21;Released;31-oct-22
